@@ -1,0 +1,400 @@
+html, body {
+	font-size:12pt;
+	background:#EEF2FF;
+	color:#000000;
+}
+.normal {
+	font-size:12pt;
+	color:#000000;
+}
+a {
+	background:inherit;
+	color:#34345C;
+	text-decoration:none;
+	font-family:sans-serif;
+}
+a:visited {
+	background:inherit;
+	color:#34345C;
+	text-decoration:none;
+	font-family:sans-serif;
+}
+a:hover {
+	color:#DD0000;
+	background:inherit;
+	font-family:sans-serif;
+}
+.filesize a {
+	text-decoration:underline;
+}
+.filesize a:visited {
+	text-decoration:underline;
+}
+.postername a {
+	background:inherit;
+	font-size:16px;
+	font-family:serif;
+	color:#34345C;
+	font-weight:800;
+	text-decoration:none;
+}
+.postername a:visited {	
+	background:inherit;
+	font-size:16px;
+	font-family:serif;
+	font-weight:800;
+	color:#34345C;
+	text-decoration:none;
+}
+.adminbar {
+	text-align:right;
+	background:inherit;
+	clear:both;
+	float:right;
+}
+.optout {
+	text-align:right!important;
+	float:right!important;
+	clear:both!important;
+}
+.logo {
+	clear:both;
+	text-align:center;
+	background:inherit;
+	font-size:24pt;
+	color:#AF0A0F;
+	width:100%;
+}
+.replymode {
+	background:#0010E0;
+	color:#FFFFFF;
+	width:100%;
+}
+.catalogmode {
+	background:#0040E0;
+	color:#FFFFFF;
+	width:100%;
+}
+.postarea {
+	background:inherit;
+}
+.rules {
+	/*font-size:0.7em;*/
+	width: 468px;
+	font-size: 10px;
+	font-family: sans-serif;
+}
+.rules li {
+	margin-left: 1em;
+	/*text-indent: 0em;*/
+}
+.postblock {
+	background:#9988EE;
+	color:#000000;
+	font-weight:800;
+}
+.footer {
+	text-align:center;
+	font-size:10px;
+	font-family:sans-serif;
+}
+.passvalid {
+	background:#9988EE;
+	text-align:center;
+	width:100%;
+	color:#ffffff;
+}
+.dellist {
+	background:inherit;
+	text-align:center;
+}
+.delbuttons {
+	background:inherit;
+	text-align:center;
+	padding-bottom:4px;
+}
+.managehead {
+	background:#0F8FE1;
+	color:#000000;
+	font-family:sans-serif;
+	font-size:14px;
+	padding:0px;
+}
+.postlists {
+	background:#FFFFFF;
+	width:100%;
+	padding:0px;
+	color:#000000;
+}
+.row1 {
+	background:#9AD2F6;
+	font-family:sans-serif;
+	font-size:12px;
+	color:#000000;
+}
+.row2 {
+	background:#FFFFFF;
+	font-family:sans-serif;
+	font-size:12px;
+	color:#000000;
+}
+.unkfunc {
+	color:#789922;
+}
+.filesize {
+	font-size:12px;
+	font-family:sans-serif;
+	text-decoration:underline;
+	padding-left:3em;
+}
+.filetitle {
+	background:inherit;
+	font-size:18px;
+	font-family:serif;
+	color:#0F0C5D;
+	font-weight:800;
+}
+.postername {
+	background:inherit;
+	font-size:16px;
+	font-family:serif;
+	color:#117743;
+	font-weight:800;
+}
+.postertrip {
+	color:#3a6ea5;
+	font-size:14px;
+}
+.oldpost {
+	background:inherit;
+	font-size:18px;
+	font-family:serif;
+	color:#0F0C5D;
+	font-weight:800;
+}
+.omittedposts {
+	background:inherit;
+	font-size:12px;
+	font-family:serif;
+	color:#070707;
+	font-weight:800;
+}
+.reply {
+	background:#D6DAF0;
+	color:#000000;
+	font-family:serif;
+}
+.replyhl {
+	background: #D6BAD0;
+	color: #000000;
+}
+.doubledash {
+	vertical-align:top;
+	clear:both;
+	float:left;
+}
+.replytitle {
+	background:inherit;
+	font-size:18px;
+	font-family:serif;
+	color:#0F0C5D;
+	font-weight:800;
+}
+.commentpostername {
+	background:inherit;
+	font-size:12px;
+	font-family:serif;
+	color:#117743;
+	font-weight:800;
+}
+.thumbnailmsg {
+	background:inherit;
+	font-size:9px;
+	font-family:sans-serif;
+	color:#000000;
+}
+
+.watchedthreads {
+	background-color: #D6DAF0 !important;
+	border: 1px dotted #D6DAF0 !important;
+	border-top: 0px none !important;
+}
+
+.reflinkpreview {
+	background-color: #D6DAF0 !important;
+}
+/* ############################################################## */
+body{background:url(http://i.imgur.com/gvOdg.png) top left repeat-x #CCD9C8!important;font-family:Tahoma!important}
+.reply,.highlight{background:#DDE5D8!important;width:100%!important;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;border:1px solid #B5BFB5;padding-top:5px!important;}
+.highlight{background:#E4E9E3!important;border:1px solid #778584}
+ 
+#delform hr{display:none;}
+#delform div{background:url(http://i.imgur.com/h3xqo.png)top left repeat-x!important;padding-left:5px;padding-right:5px;}
+.postarea,#delform div span,#delform div div,.postername a{background:none transparent!important}
+ 
+#delform > div{position:relative;border-top:25px solid #C7E0F6;min-height:300px}
+.postblock{background:#EEAA88!important;padding:5px;border:1px solid #880000;font-size:12px;color:#880000!important}
+.rules{color:#880000!important}
+#delform > div > .postername{background:url(http://l-stat.livejournal.com/img/userinfo.gif)top left no-repeat!important;padding-left:18px!important;color:#48779B!important;font-family:Tahoma!important;font-size:12px!important;padding-top:2px;}
+#delform > div > .postername a{color:#48779B!important;font-family:Tahoma!important;font-size:12px!important;}
+ 
+.thumb{margin-top:40px!important;}
+.reply .thumb,.highlight .thumb{margin-bottom:20px!important;margin-top:15px!important}
+ 
+.omittedposts{font-family:Tahoma!important;color:#999!important;font-weight:normal!important}
+ 
+#delform > div > blockquote{padding-top:40px;color:#000!important}
+#delform > div > .filetitle{font-family:Tahoma!important;font-weight:bold!important;color:#000!important;font-style:italic;position:absolute;top:-21px;left:6px;width:100%}
+ 
+#delform > div > .postername{position:absolute;top:4px;left:6px}
+#delform > div > .postertrip{position:absolute;top:6px;left:200px;font-size:12px!important}
+#delform > div > .postertrip:before{content:"Trip Code: "}
+#delform > div > .filesize{display:none}
+#delform > div > .extrabtns{position:absolute;top:-18px;right:6px}
+#delform > div > .reflink{position:absolute;top:6px;right:6px;font-size:12px;color:#48779B!important}
+ 
+#delform > div{font-size:0px!important;color:#C7E0F6!important}
+#delform > div > .expall{font-size:12px!important;color:#C7E0F6!important}
+#delform > div > a{font-size:12px!important;position:relative!important;top:30px!important;font-weight:bold!important;background:none transparent!important;text-decoration:underline!important}
+ 
+ .reply .filesize, .reply .filesize a,.highlight .filesize,.highlight .filesize a{color:#778584!important}
+.reply .filesize,.highlight .filesize{position:relative;left:-25px!important}
+ 
+.reply .postername,.reply .postername a,.reply .postertrip,.highlight .postername,.highlight .postername a,.highlight .postertrip{color:#304030!important;font-weight:bold!important;font-family:"Trebuchet MS",sans-serif!important;font-size:18px!important}
+.reply .postertrip,.highlight .postertrip{color:#778584!important;font-weight:normal!important}
+.reply .postername:before,.highlight .postername:before{content:"~";font-size:14px;}
+.reply label,.reply .reflink,.highlight label,.highlight .reflink{color:#778584!important;font-family:Tahoma!important;font-size:12px!important}
+.reply .reflink,.highlight .reflink{float:right!important;padding:10px!important}
+.doubledash{font-size:0px;color:#CCD9C8;background:url(http://st.deviantart.com/minish/comments/gruze-comment-l.gif)top left no-repeat;width:11px;height:12px;position:relative;top:25px;left:15px;padding-right:11px;}
+blockquote{color:#000;font-family:Tahoma!important;padding-bottom:25px!important;font-size:12px!important}
+.reply input,.highlight input{position:relative; left:-30px;}
+ 
+.logo{background:transparent none!important;display:none;}
+#delform > div > label > input{position:absolute;top:-19px;right:63px;}.extrabtns .hidethread{margin-right:5px;}
+iframe{height:25px!important;width:300px!important;position:relative;top:38px;left:20px;}
+body{position:relative;top:40px;}
+html{background:url(http://i.imgur.com/s5LV8.png0)top center no-repeat #3B5998!important}
+.navbar{width:700px;margin-left:-313px;position:absolute;top:-22px;left:50%;text-align:right;color:#627AAD;font-size:0px;font-weight:bold}
+.navbar a{font-size:12px;color:#FFF!important;padding:8px 10px 8px 10px;text-transform:capitalize}
+.navbar a:hover{background:#6D86B7!important;}
+.adminbar{display:none}
+.twitter{background:#FFF;position:relative;display:block;padding:5px;-moz-border-radius:5px;-webkit-border-radius:5px;width:550px;height:135px;-moz-box-shadow:0px 0px 10px #FFEDD3;-webkit-box-shadow:0px 0px 10px #FFEDD3;box-shadow:0px 0px 10px #FFEDD3;margin:8px;}
+.twitter p{color:#666666;font-family:Helvetica,sans-serif;font-size:19px;position:absolute;top:15px;left:18px;padding:0px;margin:0px}
+.twitter label{font-family:Helvetica,sans-serif!important;font-weight:bold;font-size:24px;text-align:right;position:absolute;top:11px;right:18px}
+.twt140{color:#ccc}
+.twt19{color:#5c0000}
+.twt9{color:#D40D12}
+ 
+.tweetbox{resize:none;background:#FFF!important;border:1px solid #AAAAAA;font-family:'Lucida Grande',sans-serif;font-size:14px;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;width:515px;height:39px;position:absolute;top:50px;left:19px;padding:2px;}
+.tweetbox:focus{background:#FFF!important;border:1px solid #7CBDF0;box-shadow:0 0 8px rgba(82,168,236,.5);-moz-box-shadow:0 0 8px rgba(82,168,236,.5);-webkit-box-shadow:0 0 8px rgba(82,168,236,.5);outline:none}
+ 
+.tweetbutton{font-family:Helvetica,sans-serif!important;text-shadow:0px 1px 0px #FFF;font-size:15px;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;position:absolute;bottom:15px;right:20px;border:1px solid #DDDDDD;width:72px;height:26px;padding-bottom:2px;background:#CCC;background:#CCC -webkit-gradient( linear, left bottom, left top, color-stop(0.03, rgb(204,204,204)), color-stop(0.52, rgb(255,255,255)));background:#CCC -moz-linear-gradient(center bottom, rgb(204,204,204) 3%, rgb(255,255,255) 52%);cursor:pointer}
+.tweetbutton:hover{border:1px solid #999999}
+.tweetbutton:focus{outline:none}
+.reply label,.highlight label{position:relative;}
+.reply blockquote,.highlight blockquote{min-height:100px}
+.gaiabox{background-position:top left;background-repeat:no-repeat;height:150px;width:120px;display:block;position:absolute;left:-125px;top:0px;}
+.doubledash{z-index:99!important;top:75px!important;margin-left:85px!important;}
+label input{left:0px!important}
+.expall{font-size:13px!important;}
+.gaiaanon{background-image:url("http://drawchan.net/misc/gaia/anon.png")!important}
+.gaia00{background-image:url("http://drawchan.net/misc/gaia/gaia0.png")!important}
+.gaia01{background-image:url("http://drawchan.net/misc/gaia/gaia1.png")!important}
+.gaia02{background-image:url("http://drawchan.net/misc/gaia/gaia2.png")!important}
+.gaia03{background-image:url("http://drawchan.net/misc/gaia/gaia3.png")!important}
+.gaia04{background-image:url("http://drawchan.net/misc/gaia/gaia4.png")!important}
+.gaia05{background-image:url("http://drawchan.net/misc/gaia/gaia5.png")!important}
+.gaia06{background-image:url("http://drawchan.net/misc/gaia/gaia6.png")!important}
+.gaia07{background-image:url("http://drawchan.net/misc/gaia/gaia7.png")!important}
+.gaia08{background-image:url("http://drawchan.net/misc/gaia/gaia8.png")!important}
+.gaia09{background-image:url("http://drawchan.net/misc/gaia/gaia9.png")!important}
+.gaia10{background-image:url("http://drawchan.net/misc/gaia/gaia10.png")!important}
+.gaia11{background-image:url("http://drawchan.net/misc/gaia/gaia11.png")!important}
+.gaia12{background-image:url("http://drawchan.net/misc/gaia/gaia12.png")!important}
+.gaia13{background-image:url("http://drawchan.net/misc/gaia/gaia13.png")!important}
+.gaia14{background-image:url("http://drawchan.net/misc/gaia/gaia14.png")!important}
+.gaia15{background-image:url("http://drawchan.net/misc/gaia/gaia15.png")!important}
+.gaia16{background-image:url("http://drawchan.net/misc/gaia/gaia16.png")!important}
+.gaia17{background-image:url("http://drawchan.net/misc/gaia/gaia17.png")!important}
+.gaia18{background-image:url("http://drawchan.net/misc/gaia/gaia18.png")!important}
+.gaia19{background-image:url("http://drawchan.net/misc/gaia/gaia19.png")!important}
+.gaia20{background-image:url("http://drawchan.net/misc/gaia/gaia20.png")!important}
+.gaia21{background-image:url("http://drawchan.net/misc/gaia/gaia21.png")!important}
+.gaia22{background-image:url("http://drawchan.net/misc/gaia/gaia22.png")!important}
+.gaia23{background-image:url("http://drawchan.net/misc/gaia/gaia23.png")!important}
+.gaia24{background-image:url("http://drawchan.net/misc/gaia/gaia24.png")!important}
+.gaia25{background-image:url("http://drawchan.net/misc/gaia/gaia25.png")!important}
+.gaia26{background-image:url("http://drawchan.net/misc/gaia/gaia26.png")!important}
+.gaia27{background-image:url("http://drawchan.net/misc/gaia/gaia27.png")!important}
+.gaia28{background-image:url("http://drawchan.net/misc/gaia/gaia28.png")!important}
+.gaia29{background-image:url("http://drawchan.net/misc/gaia/gaia29.png")!important}
+.gaia30{background-image:url("http://drawchan.net/misc/gaia/gaia30.png")!important}
+.gaia31{background-image:url("http://drawchan.net/misc/gaia/gaia31.png")!important}
+.gaia32{background-image:url("http://drawchan.net/misc/gaia/gaia32.png")!important}
+.gaia33{background-image:url("http://drawchan.net/misc/gaia/gaia33.png")!important}
+.gaia34{background-image:url("http://drawchan.net/misc/gaia/gaia34.png")!important}
+.gaia35{background-image:url("http://drawchan.net/misc/gaia/gaia35.png")!important}
+.gaia36{background-image:url("http://drawchan.net/misc/gaia/gaia36.png")!important}
+.gaia37{background-image:url("http://drawchan.net/misc/gaia/gaia37.png")!important}
+.gaia38{background-image:url("http://drawchan.net/misc/gaia/gaia38.png")!important}
+.gaia39{background-image:url("http://drawchan.net/misc/gaia/gaia39.png")!important}
+.gaia40{background-image:url("http://drawchan.net/misc/gaia/gaia40.png")!important}
+.gaia41{background-image:url("http://drawchan.net/misc/gaia/gaia41.png")!important}
+.gaia42{background-image:url("http://drawchan.net/misc/gaia/gaia42.png")!important}
+.gaia43{background-image:url("http://drawchan.net/misc/gaia/gaia43.png")!important}
+.gaia44{background-image:url("http://drawchan.net/misc/gaia/gaia44.png")!important}
+.gaia45{background-image:url("http://drawchan.net/misc/gaia/gaia45.png")!important}
+.gaia46{background-image:url("http://drawchan.net/misc/gaia/gaia46.png")!important}
+.gaia47{background-image:url("http://drawchan.net/misc/gaia/gaia47.png")!important}
+.gaia48{background-image:url("http://drawchan.net/misc/gaia/gaia48.png")!important}
+.gaia49{background-image:url("http://drawchan.net/misc/gaia/gaia49.png")!important}
+.gaia50{background-image:url("http://drawchan.net/misc/gaia/gaia50.png")!important}
+.gaia51{background-image:url("http://drawchan.net/misc/gaia/gaia51.png")!important}
+.gaia52{background-image:url("http://drawchan.net/misc/gaia/gaia52.png")!important}
+.gaia53{background-image:url("http://drawchan.net/misc/gaia/gaia53.png")!important}
+.gaia54{background-image:url("http://drawchan.net/misc/gaia/gaia54.png")!important}
+.gaia55{background-image:url("http://drawchan.net/misc/gaia/gaia55.png")!important}
+.gaia56{background-image:url("http://drawchan.net/misc/gaia/gaia56.png")!important}
+.gaia57{background-image:url("http://drawchan.net/misc/gaia/gaia57.png")!important}
+.gaia58{background-image:url("http://drawchan.net/misc/gaia/gaia58.png")!important}
+.gaia59{background-image:url("http://drawchan.net/misc/gaia/gaia59.png")!important}
+.gaia60{background-image:url("http://drawchan.net/misc/gaia/gaia60.png")!important}
+.gaia61{background-image:url("http://drawchan.net/misc/gaia/gaia61.png")!important}
+.gaia62{background-image:url("http://drawchan.net/misc/gaia/gaia62.png")!important}
+.gaia63{background-image:url("http://drawchan.net/misc/gaia/gaia63.png")!important}
+.gaia64{background-image:url("http://drawchan.net/misc/gaia/gaia64.png")!important}
+.gaia65{background-image:url("http://drawchan.net/misc/gaia/gaia65.png")!important}
+.gaia66{background-image:url("http://drawchan.net/misc/gaia/gaia66.png")!important}
+.gaia67{background-image:url("http://drawchan.net/misc/gaia/gaia67.png")!important}
+.gaia68{background-image:url("http://drawchan.net/misc/gaia/gaia68.png")!important}
+.gaia69{background-image:url("http://drawchan.net/misc/gaia/gaia69.png")!important}
+.gaia70{background-image:url("http://drawchan.net/misc/gaia/gaia70.png")!important}
+.gaia71{background-image:url("http://drawchan.net/misc/gaia/gaia71.png")!important}
+.gaia72{background-image:url("http://drawchan.net/misc/gaia/gaia72.png")!important}
+.gaia73{background-image:url("http://drawchan.net/misc/gaia/gaia73.png")!important}
+.gaia74{background-image:url("http://drawchan.net/misc/gaia/gaia74.png")!important}
+.gaia75{background-image:url("http://drawchan.net/misc/gaia/gaia75.png")!important}
+.gaia76{background-image:url("http://drawchan.net/misc/gaia/gaia76.png")!important}
+.gaia77{background-image:url("http://drawchan.net/misc/gaia/gaia77.png")!important}
+.gaia78{background-image:url("http://drawchan.net/misc/gaia/gaia78.png")!important}
+.gaia79{background-image:url("http://drawchan.net/misc/gaia/gaia79.png")!important}
+.gaia80{background-image:url("http://drawchan.net/misc/gaia/gaia80.png")!important}
+.gaia81{background-image:url("http://drawchan.net/misc/gaia/gaia81.png")!important}
+.gaia82{background-image:url("http://drawchan.net/misc/gaia/gaia82.png")!important}
+.gaia83{background-image:url("http://drawchan.net/misc/gaia/gaia83.png")!important}
+.gaia84{background-image:url("http://drawchan.net/misc/gaia/gaia84.png")!important}
+.gaia85{background-image:url("http://drawchan.net/misc/gaia/gaia85.png")!important}
+.gaia86{background-image:url("http://drawchan.net/misc/gaia/gaia86.png")!important}
+.gaia87{background-image:url("http://drawchan.net/misc/gaia/gaia87.png")!important}
+.gaia88{background-image:url("http://drawchan.net/misc/gaia/gaia88.png")!important}
+.gaia89{background-image:url("http://drawchan.net/misc/gaia/gaia89.png")!important}
+.gaia90{background-image:url("http://drawchan.net/misc/gaia/gaia90.png")!important}
+.gaia91{background-image:url("http://drawchan.net/misc/gaia/gaia91.png")!important}
+.gaia92{background-image:url("http://drawchan.net/misc/gaia/gaia92.png")!important}
+.gaia93{background-image:url("http://drawchan.net/misc/gaia/gaia93.png")!important}
+.gaia94{background-image:url("http://drawchan.net/misc/gaia/gaia94.png")!important}
+.gaia95{background-image:url("http://drawchan.net/misc/gaia/gaia95.png")!important}
+.gaia96{background-image:url("http://drawchan.net/misc/gaia/gaia96.png")!important}
+.gaia97{background-image:url("http://drawchan.net/misc/gaia/gaia97.png")!important}
+.gaia98{background-image:url("http://drawchan.net/misc/gaia/gaia98.png")!important}
+.gaia99{background-image:url("http://drawchan.net/misc/gaia/gaia99.png")!important}
