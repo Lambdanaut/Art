@@ -1,6 +1,5 @@
-A collection of my Paintings, Drawings, and Digital Art 
-----------------------------------------------------------------
-
+A collection of my Paintings, Drawings, and Digital Art
+=======================================================
 <ul>Tools Used: 
 	<li>Mouse</li>
 	<li>GIMP</li>
