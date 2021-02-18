@@ -1,0 +1,128 @@
+Nicolas: I remember loving the fuck out of that game
+Nicolas: like 2 years ago!
+Lambdanaut: yeah it's pretty enjoyable
+Lambdanaut: just started playing
+Lambdanaut: I heard a lot of good things about it
+Lambdanaut: how're you doing?
+Nicolas: grrrrrrrrrreat
+Nicolas: I'm writing scripts in haskell that write C++ for me at work because C++ makes no sense
+Lambdanaut: haha that's kinda hilarious
+Lambdanaut: can you put the code somewhere?
+Nicolas: no because it belongs to EA
+Nicolas: but it's nothing especially amazing
+Lambdanaut: you're working for EA now?
+Lambdanaut: my co-worker worked at EA red storm in Raleigh for a few years
+Nicolas: I'm working at EA sports in vancouver
+Lambdanaut: 8o
+Lambdanaut: that's really fucking cool
+Lambdanaut: part-time, or did you grad?
+Nicolas: it's a work term
+Nicolas: 8 months
+Lambdanaut: oh nice
+Lambdanaut: I was talking about you today actually
+Lambdanaut: I was takling to kabikku/Adri and mentioned that if my dream job would be quitting where I work now and doing a video game startup with you, Cat as the
+ artistic talent, her as the creative talent, and you as the lead software engineer. And I guess I'd do a little bit of everything.
+Lambdanaut: Too bad that would never ever happen
+Lambdanaut: but it's a cool thought.
+Lambdanaut: I'm typing like shit atm because I just ran 5 miles and did some weights and my arms are killing me.
+Nicolas: something like that could happen eventually, who knows
+Nicolas: startups have more and more success these days in games
+Lambdanaut: Yeah. I think we'd have a good chance, since we're not fucking idiots.
+Lambdanaut: i'm reading Masters of Doom atm
+Lambdanaut: it's about John Carmack and Romero and the founding of id software and it really got me re-inspired to do a startup
+Nicolas: "since we're not fucking idiots" is pretty often the first thing people say a few months before a terrible failure
+Lambdanaut: Yeah, but the guys that succeed often say it too!
+Lambdanaut: Or so I've learned!
+Lambdanaut: I think if I go into it saying "we're fucking idiots, good luck to us!" we'd probably be pretty doomed
+Lambdanaut: ;;
+Nicolas: I mean, you can't base your success on your ego
+Lambdanaut: ye
+Nicolas: and none of you has ever shipped a game
+Lambdanaut: Not a game, but I've shipped and worked on other software projects.
+Lambdanaut: That's a good point though. I think working on a long-term game will be my next project. I've been putting it off for a while but I really need to get
+ to work on it.
+Nicolas: "long-term" aka never ever finished because finishing games is really hard work
+Lambdanaut: My problem is that I write the basic engine for a game so many times, and I always lose inspiration shortly after, and then the process continues.
+Lambdanaut: Haha
+Lambdanaut: YOU'RE STILL A PESSIMISTIC DICK.
+Nicolas: dude I think my health is permanently damaged from finaling on some projects at my last company
+Nicolas: it's hard
+Lambdanaut: really? How? 8(
+Lambdanaut: was that a hyperbole or are you really kinda fucked ?
+Nicolas: I didn't use to feel like shit all the time until that job
+Nicolas: dunno dude I've been exploring literally the limits of how much the human body can actually keep programming/studying for
+Lambdanaut: That's interesting
+Lambdanaut: I had the exact same experience
+Lambdanaut: Drawrawr did the same thing to me
+Lambdanaut: I'm only just now recovering over the past few weeks. My current job is much more lenient, but it took me over a year to get to this point.
+Nicolas: some days I have to just do nothing
+Lambdanaut: ME TOO
+Nicolas: even if I'm bored
+Nicolas: if I keep going my vision starts getting blurry and I get crazy vertigo and have trouble breathing
+Nicolas: went to the hospital for that once
+Lambdanaut: holy shit
+Lambdanaut: I haven't had it nearly that bad
+Lambdanaut: but I'll get headaches and it feels painful to think at all
+Lambdanaut: I've been really "zen" if that makes sense. That's what got me out of it.
+Nicolas: I'm zen all the time, but it happens anyways
+Lambdanaut: Do you drink soday?
+Lambdanaut: soda*
+Nicolas: never
+Lambdanaut: sounds like it's really just totally the work load
+Nicolas: yah man
+Nicolas: working 8-9 hours
+Nicolas: then going home and reading about compilers until midnight
+Nicolas: can only keep doing that for so long
+Lambdanaut: I'd schedule some more time for yourself to chill. If you don't meditate, It's really great. It's the #1 thing I recommend to people in fucked up
+ stressful situations.
+Lambdanaut: unless you already do. If you haven't before, I realize it sounds kinda like woo-ey bullshit, but I'm not kidding, it's great. Probably the biggest
+ reason I can actually get work done anymore.
+Nicolas: well, I know I have to do it, but I have to convince myself to actually put the time aside to
+Lambdanaut: yeah, that's the tough part lmao ;;
+Lambdanaut: but damn, I am really sorry to hear you're stressed out like that.
+Nicolas: I think I did have a revelation recently
+Lambdanaut: oh?
+Nicolas: the stress in my mind keeps accumulating until I just lie down and accept things as they are
+Nicolas: some problems just don't need to be solved
+Lambdanaut: that almost sounds like meditation actually
+Nicolas: pretty much
+Lambdanaut: well do more of that...
+Nicolas: on the other hand, the compilers book is awesome
+Lambdanaut: the dragon book?
+Nicolas: yes
+Nicolas: it's sooooooo clear in its explanations
+Lambdanaut: I've always wanted to read that
+Nicolas: half of it is the equivalent of undergraduate material and the second half is graduate
+Nicolas: so even if it looks menacing, you don't have to read the whole thing to get a really really good understanding of the topic
+Lambdanaut: I think I could maybe pick it up. I've written interpreters before
+Nicolas: it really starts from scratch assuming you just know how to program in C or Java or something
+Nicolas: there's a lot of pictures and diagrams
+Nicolas: and there's fun exercises
+Nicolas: the pages are small
+Nicolas: it repeats the same information in many different ways without losing usefulness
+Nicolas: the other day I had a question about something I read so I threw it out in the #D IRC channel and andrei himself answered me
+Nicolas: I thought that was cool
+Nicolas: it's something that doesn't happen for lots of other languages
+Lambdanaut: is Andrei the original D language dev?
+Nicolas: nah, walter bright is
+Lambdanaut: well I'll assume Andrei is pretty important than vOv
+Lambdanaut: I'm not very familiar with the D community
+Nicolas: andrei is a researcher at facebook
+Nicolas: but he's also taken charge of a lot of D stuff
+Nicolas: his role is pretty close to Walter at this point
+Nicolas: sorry I'm just going off on a tangent right now
+Nicolas: tl;dr I appreciate haskell's mindset
+Lambdanaut: (one second)
+Lambdanaut: sorry, Cat was telling me about a show she saw.
+Lambdanaut: Yeah I feel the same way
+Lambdanaut: also it sucks that at my job a lot of the stuff that my Haskell gland tells me to do isn't allowed there
+Lambdanaut: like most things in PHP that require a higher order function are looked down upon because they're "too complicated"
+Nicolas: haha yeah it's like spidey sense. haskell's good for that too.
+Nicolas: ahh
+Lambdanaut: WELP, I'm gonna pop offline for a while. TTYL 8)
+Lambdanaut: Nice talking to you though, honestly. It's refreshing hearing more from programmers. Let's talk more often if we can.
+Lambdanaut: ALSO WE KINDA HAVE A PAST AND ALL. I mean we met when we were 13
+Lambdanaut: but yeah. afk nigga. L8r
+Nicolas: yeah MAN!
+Nicolas: ok ttyl
+

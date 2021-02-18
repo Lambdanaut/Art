@@ -1,0 +1,10 @@
+# Risk Assessment
+
+All values are on a scale from 0.0 - 1.0
+
+value * success_chance > punishment * failure_chance + threshhold
+
+
+Haskell Code: 
+let assess value success_chance punishment failure_chance threshold = value * success_chance > punishment * failure_chance + threshold
+let assess_diff value success_chance punishment failure_chance threshold = value * success_chance - (punishment * failure_chance + threshold)
