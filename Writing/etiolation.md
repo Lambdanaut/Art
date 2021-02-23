@@ -1,0 +1,3 @@
+When certain cacti are deprived of light for long periods of time, they continue to grow, however the new growth is spindley and thin. When the light returns, the cacti immediatelly returns to normal growth, but the new growth is all on the fresh top, making the cactus top-heavy. Having gone through weakening deterioration in the darkness, and being now burdened with the weight of the unbearble load of new growth, the cactus splits and breaks apart at the etiolated, weakened growth, causing the top of the cactus to fall to the ground, leaving the cacti in two mutilated pieces.
+
+Despite this mutilation, the newly liberated growth may find rooting in the soil and create a new life. 
