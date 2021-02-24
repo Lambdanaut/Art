@@ -1,0 +1,13 @@
+In one example I decided I wanted to know ultimate truths. I found myself in front of a huge pyramid. I was met with 2 fu dogs(threshhold guardians in Chinese mythology) but they might as well have just been a sphinx. 
+They asked me a question that I can't remember anymore. If I gave the correct answer to the question, it would be an act of coming to terms with the unreality of everything and in doing so breaking my bonds with my life. 
+Answering the question was akin to confessing a deep sin. Something like "I am the cause of all pain and suffering and I see and accept that."
+I answered the question, and turned back to my traveling partner who had disappeared. The fu dogs were gone too. Then I looked down and saw that the bricks of the pyramid weren't actually bricks, they were copies of myself, and they were MOVING, even. It was only my previous illusions that caused them to be seen as static bricks.
+The copies of me were holding me up, though they were unaware that I was one of them. They were each and every one of them lost in their own illusions of reality. They thought I was, maybe, a thing that they were carrying of some sort. Maybe I was just a chair they were moving across the room, or maybe I was a deep emotional burden that they were unaware of in their psyche, holding them down. 
+Everywhere I looked, every piece of this pyramid, and reality, was built out of me. 
+As I walked, the me's held me up. And it's funny that I always thought they were these things called "bricks" somehow holding me up by some sort of "electromagnetic force" inherent in matter. 
+But no. Just tiny me's.
+I walked on their hands up to the center chamber where there were an infinite number of slides. And every slide was of course built out of copies of me. Each slide I could go down would curve down into another life where the parts of me that remember this place and this truth and can see it for what it is would be stripped away. 
+I had the choice of sitting in this land-between-lands forever, or choosing a slide and winding up in god-knows-where having completely forgotten about this place. 
+I smiled in acceptance, chose a slide, and started going down. Then I woke up, with the answer to the question forgotten.
+The idea is that the bricks were my past lives. That when I eat breakfast in the morning and I have some eggs, the eggs are my past lives. etc etc
+Everything is a mirror

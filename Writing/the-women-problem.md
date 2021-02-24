@@ -17,7 +17,7 @@ I'm being stupidly verbose here, but really, It's all summed up in this one, mod
 FUCK THAT. BEAT WOMEN.
 If you see a girl not being beaten at any given moment, she is almost certainly being corrupted into believing that she is a special irreproachable snowflake. You must beat a woman to teach her of her humanity. The world doesn't revolve around her, and she doesn't deserve special treatment just because she's got a uterus.
 
-And that's all there is to it. Beat your sister. Beat your mother. Beat your girlfriend, and beat your girlfriend's dyke friend.
+And that's all there is to it. Beat your sister. Beat your mother. Beat your girlfriend, and beat your girlfriend's dyke girlfriend.
 
 Rape culture for life.
 Respect. 
