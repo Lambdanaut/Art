@@ -6,4 +6,4 @@ Lucille checks again for any visible wound though doesn't see any serious gashes
 She holds Lana's head up gently cupping her hands around her chin and the sides of her face. 
 "Babe? I'm going to ask you a few questions, okay? I want you to focus on the questions. It's important that you don't fall asleep right now, okay? "
 
-"Can you tell me who's house we're at? "
+"Can you tell me who's house we're at? " 

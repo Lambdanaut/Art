@@ -69,21 +69,6 @@ This burning town and sand
 You'll go.. you'll go... to
 
 
-Little Jimmy; Little Bob
-
-I can believe in you
-
-You've got this you can 
-
-Make it through
-
-You'll leave this house you'll leave this land
-
-This burning town and sand
-
-You'll go.. you'll go... to
-
-
 
 Burning fire; Burning fire
 
