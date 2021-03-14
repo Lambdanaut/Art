@@ -40,7 +40,6 @@ A             E                      G                   D
 I doubt we'll make it through and my doubts are well-fed swine
 
 
-A E G D
 
 
 A         E              G                   D

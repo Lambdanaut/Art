@@ -1,0 +1,5 @@
+Lucille's internal self is a neurotic, terrified mess. It's convinced that others don't like her, and will turn on her at any second. This is why she doesn't have a ton of friends, and instead keeps her mind on personal projects, because the success of her own projects rests solely on her own merits and don't require relying on others. 
+
+Trusting Lana and Blake, and opening up to the both of them, was a huge step. Though, oddly, opening up to Lana is easy for her. She feels so strongly towards her that the internal voice is just quiet, in awe. It nopes the fuck out. 
+
+Towards Blake the interal self isn't quiet, but she's not threatened by him at all, and the feeling of control she feels in their friendship means she doesn't really care what the internal self says, because its primary leverage is the idea that Lucille has no control. 
