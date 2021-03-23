@@ -1,0 +1,3 @@
+Comedy relief hour: Erickson lashes out at the principal when he shows up to his house unannounced during the brief Chel/Erickson breakup. Erickson tells him to go the fuck home and don't ever come to his house again. The principal runs home crying. He takes up smoking and listens to "Lonely, I'm Mr. Lonely. I have no body" over and over on loop. When the Vice Principal catches him smoking in the office he screams through tears "I'M GOING THROUGH A ROUGH BREAKUP. JUST LET ME HAVE THIS ONE THING."
+
+The VP just shuts his mouth. 

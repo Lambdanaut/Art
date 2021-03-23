@@ -35,6 +35,5 @@ But I hope
 I hope that they don't hear me. 
 
 
-I guess if there's a common frienemy, 
-we can hold hands and be
- in harmony
+     C              G             D               C               G          D
+It's sad it takes a common frienemy, for us to be free, to be our own shittery
