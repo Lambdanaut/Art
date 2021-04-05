@@ -1,31 +1,31 @@
 G Em C D
 
 
-G
+    G
 I'm sorry that I hide. I'm sorry that I'm scared
-Em                        C        D
+    Em                    C        D
 I'm sorry that I won't be here for you
-G                         
+    G                         
 I'm sorry that I ran, and called you all those names
-C                               D       G
+     C                          D       G
 I'll always be the thing that's hurting you
 
-G
+    G
 I'm sorry for the times, I lied behind your back
-Em                          C      D
+  Em                        C      D
 I kept my lies hidden in my poison knapsack
-G
+  G
 I drank from it daily, and gave some to you
-C                  D           G
+   C               D           G
 We drank until our lips turned blue
 
-G
+  G
 I thought I couldn't trust you, cuz you couldn't trust me more
-Em                           C               D
+  Em                         C               D
 I fucked my insecurities and left you at the door
-G
+  G
 I screamed profanities, I called you a whore
-C                       D            G
+  C                     D            G
 I called you a whore. I called you a whore.
 
   G
@@ -46,9 +46,9 @@ and I'm sorry that I let you know I cared
     C                      D         G
 I'm sorry that I lied, and lied, and lied
 
-G
+    G
 I'm sorry that I lie all day in bed
-Em                         D      G
+    Em                       D      G
 I'm sorry that I wish that I were dead
 
 
