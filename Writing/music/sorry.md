@@ -41,8 +41,8 @@ I'm sorry that I hurt and you and I didn't even care
 I'm sorry that I'm sorry and I'm sorry for this song
         Em                         C        D
 and I'm sorry that I told you that you were wrong
-        G
-and I'm sorry that I let you know I cared
+    G
+I'm sorry that I let you know I cared
     C                      D         G
 I'm sorry that I lied, and lied, and lied
 
