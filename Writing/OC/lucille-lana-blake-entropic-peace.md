@@ -1,0 +1,3 @@
+Lucille and Lana are drifting off in each other's arms while Blake munches on popcorn in a lazy-char behind them in his living room. The space around them tingles with a feeling that says that it's okay. The past is the past. Rest in the everlasting moment of this entropic peace. 
+The rain tickles it's way down the sides of the building. Blake notices the two could use some back support. He crawls down to them, putting his arms around them and letting them lean back against his body. 
+They both fall into a light nap while Blake's content eyes drift from the TV down to them, as he starts to feel tired as well. 
