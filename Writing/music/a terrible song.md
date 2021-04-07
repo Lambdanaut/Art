@@ -1,10 +1,8 @@
-
 C           G
   This is a terrible song
 
 D                                      C       G D
 I wrote the lyrics, purposefully to be wrong
-
 
 C           G 
   This is a shit show hell
@@ -32,8 +30,77 @@ I don't know if I'll be heard throughout the town
 But I hope
 
   G                    D
-I hope that they don't hear me. 
+I hope that they don't hear me
 
 
-     C              G             D               C               G          D
-It's sad it takes a common frienemy, for us to be free, to be our own shittery
+C         G           D
+This song goes out to Charlie
+
+        C                    G        D
+Without Charlie, we wouldn't have our Harley 
+
+           C          G           D
+We'd still be, dustin around in a firepit
+
+            C       G   D
+In our back yard
+
+
+C                                         G
+Thank you thank you, thank you my friend. Thank you thank you till the very end
+
+D                            C                     G
+Thank you thank you till the star lights fall into me
+
+C
+Thank you, Charlie for busting our party
+
+G
+Thank you Charlie for your shit in our shoes
+
+D                         C                  G
+Thank you Charlie for the unwanted pressured booze
+
+C           G
+  This is a terrible song
+
+D                                      C       G D
+I wrote the lyrics, purposefully to be wrong
+
+C           G 
+  This is a shit show hell
+
+D                                      C
+And I'm ringing the shit show bell for you
+
+         G                 D
+(And the shit shows always free)
+
+
+C
+Thank you, Charlie for busting our party
+
+G
+Thank you Charlie for your shit in our shoes
+
+D                         C                  G
+Thank you Charlie for the unwanted pressured booze
+
+
+C
+Thank you Charlie for your honest outrage
+
+G
+Thank you Charlie for your jealousy
+
+D                         C               G
+Thank you Charlie for the way you terrify me
+
+C
+Thank you Charlie for being a sinner
+
+G
+When I needed a frienemy
+
+D                      C                      G
+Thank you Charlie, for keeping your shit show free

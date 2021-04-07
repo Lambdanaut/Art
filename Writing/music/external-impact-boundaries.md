@@ -11,7 +11,7 @@ I'm born and then I scream and then I learn and then I scheme and then I'm cut a
     C7                C                  Am              Em                 F             G7             C        C
 The red it pours like waterfalls as it's mopped up by microbe mothballs and spat out into dirt to grow a tree
 
-    C7                  C                   Am         Em                   F                  G7             C       C
+    C7                  C                   Am         Em                  F                  G7             C       C
 And from the tree there grows a fruit, soon eaten by a mothball brute, who dreams to be quite bigger than he be
 
 
@@ -46,8 +46,8 @@ To be honest I'm fucking sick of it
         G                F             C     Am
 I don't want anything to do with it at all
 
-    G               F               C               Am                G                F             C       Am
-Rip up your fucking document on thinking you're so naughty we can't ever learn to stand until we fall.
+        G                 F           C               Am                   G              F             C       Am
+You can take your fucking document on External Impact Boundaries and chuck it and my dead body down the hall
 
 
 C7 C Am Em F G7 C C
