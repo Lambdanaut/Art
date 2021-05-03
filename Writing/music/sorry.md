@@ -1,3 +1,4 @@
+CAPO 2
 G Em C D
 
 
