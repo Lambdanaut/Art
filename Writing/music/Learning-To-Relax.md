@@ -1,4 +1,4 @@
-Learning to Relax
+Learning to Relax by Dan Deacon
 
 A E Fm D
 
